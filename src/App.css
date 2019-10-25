@@ -1,0 +1,71 @@
+.App {
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    float: column;
+}
+
+.pokemon {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+    height: 650px;
+    padding: 20px 50px;
+    margin-bottom: 10px;
+    float: left;
+
+}
+
+.image {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 180px;
+}
+
+p span {
+    border: 1px solid gray;
+    border-radius: 50px;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+}
+
+.Grass {
+    background-color: #57b053;
+}
+
+.Poison {
+    background-color: #a36bdb;
+}
+
+.Fire {
+    background-color: #eba749;
+}
+
+.Water {
+    background-color: #49c0eb;
+}
+
+.Flying {
+    background-color: #7a6f04;
+}
+
+.Bug {
+    background-color: #C0C0C0;
+}
+
+.Normal {
+    background-color: #77797d;
+}
+
+.Electric {
+    background-color: #c4bf2d;
+}
+
+.Ground {
+    background-color: #8c5c0a;
+}
+
+.Fairy {
+    background-color: #fc97f7;
+}
